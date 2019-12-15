@@ -182,3 +182,12 @@ body{
 .selected-filters .item .fa-times{
   cursor: pointer;
 }
+
+.side-filter-box .form-check {
+  display: inline-flex;
+  width: 100%;
+}
+
+.side-filter-box .form-check input.form-check-input {
+  margin-top: 13px;
+}
